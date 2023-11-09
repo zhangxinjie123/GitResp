@@ -10,6 +10,6 @@ public class testgit {
     //这是一个main方法,是程序的入口
     public static void main(String[] args) {
      int age;
-
+        int add;
     }
 }
