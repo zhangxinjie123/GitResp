@@ -1,4 +1,4 @@
-package com.msb;
+ package com.msb;
 
 /**
  * @author : zhangxj
@@ -11,5 +11,6 @@ public class testgit {
     public static void main(String[] args) {
      int age;
         int add;
+        string name;
     }
 }
